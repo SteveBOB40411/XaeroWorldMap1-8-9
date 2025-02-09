@@ -1,23 +1,16 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+# XaeroServerMap
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+
+There are no configuration files or permissions, simple add the plugin to your server, restart your server, and your world maps will begin to function seamlessly!
+<br /><br />
+
+## How to Compile
+
+```bash
+
+```
+```bash
+
+
+This plugin was designed to be reliable and lightweight. It does not use any non-public APIs.
+Please report any issues, and I will see what I can remedy.
